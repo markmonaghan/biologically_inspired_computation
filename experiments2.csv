@@ -1,0 +1,2 @@
+Layers(num perceptrons and act function),pso num particles,pso num iteration,omega (inertia),phi_p (personal coef),phi_g (global coef)
+["8sigmoid"-"12relu"-"6tanh"-"10sigmoid"], 200, 100, 0.7, 0.4, 0.5
